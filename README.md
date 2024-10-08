@@ -2,15 +2,15 @@
 
 ## 🚀 About Me
 
-I'm a passionate web developer and tech enthusiast. I enjoy cloning landing pages and exploring new tools to enhance my development skills.
+I’m a passionate web developer, continuously learning and exploring new technologies to create modern and responsive websites. I enjoy solving problems and building efficient solutions for the web.
 
-- 🔭 I’m currently working on **cloning landing pages and building responsive websites**.
+- 🔭 I’m currently working on **modern web design and development projects**.
 - 🌱 I’m currently learning **advanced web development**.
-- 👯 I’m looking to collaborate on **open source web development projects**.
+- 👯 I’m looking to collaborate on **web development and open-source projects**.
 - 💬 Ask me about **web development, HTML/CSS, JavaScript, and UI design**.
 - 📫 How to reach me: [zohaaamir298@gmail.com](mailto:zohaaamir298@gmail.com)
 - 😄 Pronouns: **She/Her**
-- ⚡ Fun fact: **I love solving puzzles and learning new programming languages**.
+- ⚡ Fun fact: **I enjoy experimenting with different UI/UX designs and creating artistic websites**.
 
 ## ![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103) ![Ask Me Anything](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)
 
